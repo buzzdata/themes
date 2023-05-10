@@ -2,8 +2,15 @@
     {
         "title": "Development - Velocity",
         "author": "PathFactory devs",
-        "version": "1.0.0",
+        "version": "1.0",
         "url": "https://github.com/buzzdata/velocity-theme/archive/refs/heads/develop.zip",
+        "thumbnail": "https://raw.githubusercontent.com/buzzdata/themes/develop/images/PathFactory_Logo_RGB_Icon_Color.png"
+    },
+    {
+        "title": "Development - Velocity 2.0",
+        "author": "PathFactory",
+        "version": "2.0",
+        "url": "https://github.com/buzzdata/velocity-theme/archive/refs/heads/v2.0.zip",
         "thumbnail": "https://raw.githubusercontent.com/buzzdata/themes/develop/images/PathFactory_Logo_RGB_Icon_Color.png"
     }
 ]
