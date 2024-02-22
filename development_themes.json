@@ -26,5 +26,12 @@
         "version": "4.0",
         "url": "https://github.com/buzzdata/velocity-theme/archive/refs/heads/v4.0.zip",
         "thumbnail": "https://raw.githubusercontent.com/buzzdata/themes/develop/images/PathFactory_Logo_RGB_Icon_Color.png"
+    },
+    {
+        "title": "Development - Velocity 5.0",
+        "author": "PathFactory",
+        "version": "5.0",
+        "url": "https://github.com/buzzdata/velocity-theme/archive/refs/heads/v5.0.zip",
+        "thumbnail": "https://raw.githubusercontent.com/buzzdata/themes/develop/images/PathFactory_Logo_RGB_Icon_Color.png"
     }
 ]
